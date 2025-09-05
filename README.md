@@ -20,3 +20,4 @@ A clean and simple weather application built with HTML, CSS, and vanilla JavaScr
     CSS3 🎨: Crafting a beautiful and responsive user interface with modern styling techniques.
     
     JavaScript 💡: Bringing the app to life with dynamic interactions, API fetching, and DOM manipulation.
+<img width="224" height="224" alt="clear" src="https://github.com/user-attachments/assets/fe02680d-aeb8-4e29-acaa-f7377fd67f47" />
